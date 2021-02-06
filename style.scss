@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+* {
+  // border: 1px solid red;
+}
+
 html {
   background-color: #fff;
   background-repeat: no-repeat;
-  background-image: url(https://images.unsplash.com/photo-1599870419260-888d147905a6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80);
+  background-image: url(https://images.unsplash.com/photo-1595506951595-2d3de8d889c1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=959&q=80);
   background-size: 100vw;
   background-position: center 6vw;
   filter: grayscale(100%);
